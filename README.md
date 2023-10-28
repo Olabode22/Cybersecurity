@@ -12,6 +12,9 @@
   - [DDoS Incident Report Analysis using NIST CSF](https://drive.google.com/file/d/1DVyytmgshGiHHq-Vxp5LyIVkPBCIxOgT/view?usp=drive_link)
 - <b>Security Risk Assessment</b>
   - [Network Hardening](https://drive.google.com/file/d/1yx-NoR7osFsG4yyRWA0D3WV-B1McmiTB/view?usp=drive_link)
+- <b>Database Queries and CLI</b>
+  - [Apply filters to SQL queries](https://drive.google.com/file/d/1FiqyvRzlRG29sBH_ylbyl8zvTKWSrJhc/view?usp=drive_link)
+  - [File permissions in Linux](https://drive.google.com/file/d/1FnBuMXWYewJ6icEWQtvMLD5e7_H7eGNS/view?usp=drive_link)
  
 <h2> Certifications</h2>
 
