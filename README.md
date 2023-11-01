@@ -18,9 +18,9 @@
  
 <h2> Certifications</h2>
 
-- [CompTIA A+](https://drive.google.com/file/d/1ZJLbID5ogHHame2kEfHBHV7xVw1ydTGW/view?usp=drive_link)
-- [CompTIA Network+](https://drive.google.com/file/d/1pjPEtf9iyY8YvR0L5p9ekfz02WcwO0EU/view?usp=drive_link)
-- [Google IT Support](https://drive.google.com/file/d/1FJHP0URipItTYzxiMAVVX3vZAH3HoXFv/view?usp=drive_link)
+- [CompTIA A+]
+- [CompTIA Network+]
+- [Google IT Support]
 
 <h2> 🤳 Connect with me:</h2>
 
