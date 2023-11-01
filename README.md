@@ -18,9 +18,9 @@
  
 <h2> Certifications</h2>
 
-- [CompTIA A+]
-- [CompTIA Network+]
-- [Google IT Support]
+- CompTIA A+
+- CompTIA Network+
+- Google IT Support
 
 <h2> 🤳 Connect with me:</h2>
 
